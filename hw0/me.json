@@ -1,0 +1,10 @@
+{
+    "name":{
+        "first":"Si",
+        "last":"zihui"
+    },
+    "fromWisconsin":false,
+    "numCredits":6,
+    "major":"computer science",
+    "intrests":["reading", "film", "running"]
+}
